@@ -12,6 +12,7 @@
 | 002 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120805" target="_blank">몫 구하기</a> | Lv.0 | <a href="./Algorithm_Solution/002_몫_구하기.md">바로가기</a> |
 | 003 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120820" target="_blank">나이 출력</a> | Lv.0 | <a href="./Algorithm_Solution/003_나이_출력.md">바로가기</a> |
 | 004 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120807" target="_blank">숫자 비교하기</a> | Lv.0 | <a href="./Algorithm_Solution/004_숫자_비교하기.md">바로가기</a> |
+| 005 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/120802" target="_blank">두 수의 합</a> | Lv.0 | <a href="./Algorithm_Solution/005_두_수의_합.md">바로가기</a> |
 
 
 SQL : CODEKATA
@@ -23,3 +24,4 @@ SQL : CODEKATA
 | 002 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59408" target="_blank">중복 제거하기</a> | Lv.1 | <a href="./SQL_Solution/002_중복_제거하기.md">바로가기</a> |
 | 003 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59403" target="_blank">동물의 아이디와 이름</a> | Lv.1 | <a href="./SQL_Solution/003_동물의_아이디와_이름.md">바로가기</a> |
 | 004 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59406" target="_blank">동물의 수 구하기</a> | Lv.1 | <a href="./SQL_Solution/004_동물의_수_구하기.md">바로가기</a> |
+| 005 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/59041" target="_blank">동명 동물 수 찾기</a> | Lv.1 | <a href="./SQL_Solution/005_동명_동물_수_찾기.md">바로가기</a> |
